@@ -9,3 +9,6 @@ Instrucciones:
 Entrega: 
 
 - Envía a [Issues](https://github.com/xiiicoloquioEM/xiii-homepage/issues) tu resultado
+
+
+Continúa con la [actividad 2](actividad2.md)
