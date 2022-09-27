@@ -1,6 +1,6 @@
-# Actividad de creación de repositorio
+#Actividad de creación de repositorio
 
-Instrucciones:
+##Instrucciones:
 
 1. Abre tu cuenta de [Github](github.com)
 2. Haz clic en el botón crear repositorio
